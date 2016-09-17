@@ -1,0 +1,30 @@
+{
+  "name": "dotastats",
+  "version": "1.0.0",
+  "description": "Web app that shows dota 2 stats of players",
+  "main": "index.js",
+  "dependencies": {
+    "ember": "^1.0.0-pre.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraigBanach/dota.git"
+  },
+  "keywords": [
+    "dota",
+    "2",
+    "stats"
+  ],
+  "author": "Craig Banach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CraigBanach/dota/issues"
+  },
+  "homepage": "https://github.com/CraigBanach/dota#readme"
+}
